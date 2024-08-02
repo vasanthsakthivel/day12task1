@@ -1,0 +1,60 @@
+ body {
+   background-color: rgba(213, 219, 238, 0.644);
+ }
+
+ .navBar {
+   background-color: #2f3f3f;
+   color: white;
+ }
+
+ i {
+   display: inline-block;
+   margin: 15px 15px;
+ }
+
+ h6 {
+   display: inline-block;
+   margin-left: 45%;
+   font-size: 2rem;
+ }
+
+ .container {
+   padding: 50px;
+ }
+
+ #sidebox {
+   background-color: rgba(15, 16, 20, 0.842);
+   height: 80vh;
+   width: 20vw;
+   border-radius: 20px;
+ }
+
+ #search {
+   background-color: rgba(15, 16, 20, 0.842);
+   color: white;
+   width: 40vw;
+   border-radius: 5px;
+   border: 0px;
+   padding: 5px 0px 5px 15px;
+   font-family: monospace;
+ }
+
+ .smallBox {
+   border-radius: 15px;
+   background-color: rgba(15, 16, 20, 0.842);
+   width: 40vw;
+   height: 110px;
+ }
+
+ .footerBox {
+   border-radius: 15px;
+   background-color: rgba(15, 16, 20, 0.842);
+   width: 60vw;
+   height: 20vh;
+ }
+
+ .largePart {
+   flex-wrap: wrap;
+   justify-content: center;
+   align-content: space-between;
+ }
