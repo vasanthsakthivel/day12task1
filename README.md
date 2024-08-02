@@ -1,3 +1,3 @@
 Github profile page design
 
-deployment link
+deployment link https://githubprofiledesig.netlify.app/ 
